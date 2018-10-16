@@ -3,4 +3,4 @@
 
 -git
     - github blog
-    - [Github] (https://github.com/)
+    - [GitHub](http://github.com)
